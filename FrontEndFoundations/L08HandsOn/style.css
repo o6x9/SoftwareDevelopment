@@ -1,0 +1,48 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: rgb(255, 144, 144);
+}
+
+header {
+  background-color: rgb(183, 0, 255);
+  padding: 5px;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(10, 7, 39);
+  border-style: solid;
+  text-align: center;
+  padding: 30px;
+  background-color: darksalmon;
+}
+
+.input {
+  color: rgb(0, 204, 255);
+}
+.q123 {
+  list-style-type: none;
+
+  text-align: center;
+  color: darkred;
+  font-family: fantasy;
+}
+.e123 {
+  font-family: sans-serif;
+  text-align: center;
+  /* position: fixed; */
+  align-items: center;
+  /* font-size: large; */
+  color: rgb(24, 41, 6);
+  border-style: solid;
+  padding: 40px;
+}
+h3 {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}

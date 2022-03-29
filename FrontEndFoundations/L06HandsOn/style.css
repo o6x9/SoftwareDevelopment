@@ -1,0 +1,39 @@
+img {
+  width: 500px;
+  height: auto;
+}
+
+@media (max-width: 576px) {
+  img {
+    display: flex;
+    width: 250px;
+    height: auto;
+  }
+}
+form {
+  font-family: "Anton", sans-serif;
+}
+.container {
+  font-family: "Rowdies", cursive;
+}
+body{
+
+    background-color: rgb(95, 124, 95);
+    text-align: center;
+}
+h1{
+    color: black;
+}
+h2{
+    color: black;
+}
+#photo1{
+    display: flex;
+    width: 250px;
+    height: auto;
+}
+p{
+   
+    color: chocolate;
+    size: 100px;
+}

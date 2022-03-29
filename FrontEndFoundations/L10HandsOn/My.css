@@ -1,0 +1,77 @@
+#content {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+body {
+  background-color: rgb(255, 248, 248);
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+  margin-bottom: 100px;
+  background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700448413.jpg);
+}
+
+#myHead {
+  background-color: rgb(192, 34, 34);
+  text-align: center;
+  height: 90px;
+  align-items: center;
+  justify-items: center;
+  color: white;
+  font-family: "Cinzel", serif;
+}
+
+#chrisPic {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  /* widows: 150px; */
+  /* transform: rotate(90deg); */
+  border-radius: 55%;
+  border-style: solid;
+}
+
+#email {
+  height: 34px;
+  width: 34px;
+  display: flex;
+  float: left;
+}
+
+/* #faceBook{
+    height: 34px;
+    width: 34px;
+} */
+
+#footer {
+  display: flex;
+  background: rgb(0, 0, 0);
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 75px;
+  font-family: "Permanent Marker", cursive;
+  
+}
+
+h4 {
+  color: darksalmon;
+}
+
+li {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+#aoa {
+  color: brown;
+  font-size: xx-large;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
